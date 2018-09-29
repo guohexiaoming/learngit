@@ -6,3 +6,4 @@ Git is free software distributed under the GPL.
 second add content
 addLICENSNOCMMIT
 add!
+add@
